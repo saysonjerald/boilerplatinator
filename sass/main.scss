@@ -1,0 +1,10 @@
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+@import "base/base";
+@import "base/typography";
+@import "base/utilities";
+
+
+//BOOTSTRAP
+@import "../node_modules/bootstrap/scss/bootstrap.scss";

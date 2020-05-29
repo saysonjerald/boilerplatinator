@@ -1,0 +1,20 @@
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+html {
+    font-size: $font-size-base;
+
+    // MEDIA QUERY SAMPLE
+    // @include respond-below(xxs){
+    //     font-size: 0.30rem;
+    // }
+}
+
+body {
+    // font-family: "OpenSans";
+    color: $color-tertiary;
+    box-sizing: border-box;
+}

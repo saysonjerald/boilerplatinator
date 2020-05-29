@@ -1,0 +1,6 @@
+Put all reusable .SCSS Files here like:
+Buttons or Sections on your page.
+
+e.i. 
+_buttons.scss 
+_section_about.scss

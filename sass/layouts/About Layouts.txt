@@ -1,0 +1,5 @@
+Put alll .scss files related to:
+Grid layouts or something like will help you to customize your layouts.
+
+e.i 
+_grid.scss

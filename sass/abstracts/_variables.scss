@@ -1,0 +1,14 @@
+//VARIABLE FOR COLORS
+// $color-primary: hsl(322, 100%, 66%);
+// $color-secondary : hsl(207, 100%, 98%); 
+// $color-tertiary : hsl(192, 100%, 9%);
+
+//DEFAULT FONT SIZE
+$font-size-base:  0.625rem; //10px
+
+//GRID
+$grid-columns:      12;
+$grid-gutter-width: 30px;
+
+$grid-breakpoints: (xxxs: 0,xxs: 320px,xs: 568px,sm: 667px,md: 768px,lg: 992px,xl: 1200px,xxl: 1440px,xxxl: 1600px);
+$container-max-widths: (xxxs: 319px,xxs: 414px,xs: 568px,sm: 608px,md: 738px,lg: 868px,xl: 1092px,xxl: 1330px,xxxl: 1540px);

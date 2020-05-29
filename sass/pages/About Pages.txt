@@ -1,0 +1,7 @@
+Put all .SCSS Files here like:
+header, navigation, or footer. everything that is repeatable in the page
+ 
+i.e. 
+_header.scss
+_navigation.scss
+_footer.scss
