@@ -1,7 +1,7 @@
 {
-  "name": "template-v3",
+  "name": "boilerplatinator",
   "version": "3.0.0",
-  "description": "Website starter boilerplate with Sass and Bootstrap",
+  "description": "Boilerplate for building website using customized Bootstrap Media Queries and Grid system with SASS.",
   "main": "index.js",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w",

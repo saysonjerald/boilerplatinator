@@ -6,14 +6,23 @@ Boilerplate for building website using customized Bootstrap Media Queries and Gr
 2. Download and Install [Node.js](https://nodejs.org/en/)
 ( _Choose: Recommended for Most Users_ )
 
-3. Open the **'Boilerplatinator'** folder then **'Right Click'** on any white/empty space inside this file then choose **'Git Bash Here'**. 
+3. Create a file where you want to start your main project. 
+4. Then **'Right Click'** on any white/empty space inside this file then choose **'Git Bash Here'**.  
+5. A console will pop-up, then run this code to download the **'Boilerplatinator'** then close the console after downloading
+	```console
+	$git clone https://github.com/saysonjerald/boilerplatinator.git
+	```
+6. **Edit value** of this property 'name', 'version' and 'description' inside the package.json file
+7. Rename the **'Boilerplatinator'** folder into your **project name**.
+8. Open the **'Project Folder'** folder then **'Right Click'** on any white/empty space inside this file then choose **'Git Bash Here'**. 
 	```javascript
 	$npm install live-server -g
 	```
-5. Install Node Modules for this boilerplate.
+9. Install Node Modules for this boilerplate.
   	```javascript
 	$npm install 
 	```
+10. Delete the _.git_ folder, sometimes it's hidden.
 
 ## Notes for Development
 1. To activate **LiveServer** type:
