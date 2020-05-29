@@ -91,18 +91,7 @@ xl: 1092px,
 xxl: 1330px,
 xxxl: 1540px
 ```
-* Container Max-Width
-```CSS
-xxxs: 319px,
-xxs: 414px,
-xs: 568px,
-sm: 608px,
-md: 738px,
-lg: 868px,
-xl: 1092px,
-xxl: 1330px,
-xxxl: 1540px
-```
+
 Note: Don't be afraid to modify or add containers and breakpoint. 
 
 * Media Query
